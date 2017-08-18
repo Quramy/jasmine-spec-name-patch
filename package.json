@@ -1,0 +1,26 @@
+{
+  "name": "jasmine-spec-name-patch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quramy/jasmine-spec-name-patch.git"
+  },
+  "keywords": [
+    "jasmine"
+  ],
+  "author": "Quramy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quramy/jasmine-spec-name-patch/issues"
+  },
+  "homepage": "https://github.com/Quramy/jasmine-spec-name-patch#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0",
+    "jasmine-core": "^2.7.0"
+  }
+}
