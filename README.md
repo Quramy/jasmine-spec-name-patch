@@ -1,4 +1,7 @@
 # jasmine spec name patch
+[![CircleCI](https://circleci.com/gh/Quramy/jasmine-spec-name-patch.svg?style=svg)](https://circleci.com/gh/Quramy/jasmine-spec-name-patch)
+[![npm version](https://badge.fury.io/js/jasmine-spec-name-patch.svg)](https://badge.fury.io/js/jasmine-spec-name-patch)
+
 
 Allows to use spec's name in Jasmine `afterEach` callback.
 
