@@ -1,8 +1,10 @@
+const assert = require('assert');
+
 describe("Foo", function() {
 
   afterEach(function (done, x) {
     setTimeout(() => {
-      console.log(x.fullName);
+      assert.equal(x.fullName, 'Foo should something');
       done();
     }, 200);
   });
@@ -10,9 +12,12 @@ describe("Foo", function() {
   it("should something", function() { });
 });
 
+const expectedNumArray = [30, 10, 50];
+
 describe('Piyo', function() {
   afterEach(function () {
-    console.log(this.fullName);
+    const num = expectedNumArray.shift();
+    assert.equal(this.fullName, 'Piyo should something ' + num);
   });
 
   [30, 10, 50].forEach(i => {
