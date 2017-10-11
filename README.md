@@ -39,7 +39,7 @@ wrap(function(context, complete, delegate) {
     delegate.apply(context);
     complete();
   } else {
-    delegate.apply(context, complete);
+    delegate.apply(context, [complete]);
   }
 });
 ```
