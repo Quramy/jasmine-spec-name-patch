@@ -1,4 +1,6 @@
 # jasmine spec name patch
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Quramy/jasmine-spec-name-patch.svg)](https://greenkeeper.io/)
 [![CircleCI](https://circleci.com/gh/Quramy/jasmine-spec-name-patch.svg?style=svg)](https://circleci.com/gh/Quramy/jasmine-spec-name-patch)
 [![npm version](https://badge.fury.io/js/jasmine-spec-name-patch.svg)](https://badge.fury.io/js/jasmine-spec-name-patch)
 
