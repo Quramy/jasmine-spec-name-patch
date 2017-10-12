@@ -1,6 +1,6 @@
 {
   "name": "jasmine-spec-name-patch",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Allow to use spec name in Jasmine afterEach callback",
   "main": "index.js",
   "scripts": {
