@@ -21,6 +21,6 @@
   "homepage": "https://github.com/Quramy/jasmine-spec-name-patch#readme",
   "devDependencies": {
     "jasmine": "^2.7.0",
-    "jasmine-core": "^2.7.0"
+    "jasmine-core": "^3.0.0"
   }
 }
